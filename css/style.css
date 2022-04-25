@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+
+.left {
+    text-align: left;
+    margin-right: 15%;
+}
+
+.right {
+    text-align: right;
+    margin-left: 15%;
+}
+
+.center {
+    text-align: center;
+    margin: 0 10%;
+}
